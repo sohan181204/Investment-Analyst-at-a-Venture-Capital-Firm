@@ -1,6 +1,4 @@
-# Adobe India Hackathon - Round 1B Submission
-
-## Persona: Investment Analyst at a Venture Capital Firm
+# Persona: Investment Analyst at a Venture Capital Firm
 
 ### Problem Understanding
 
